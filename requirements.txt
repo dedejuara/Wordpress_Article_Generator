@@ -1,0 +1,6 @@
+selenium==4.15.2
+gradio==3.40.1
+Pillow==<9.2.0
+openai==0.27.6
+bs4
+replicate
